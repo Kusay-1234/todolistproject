@@ -39,3 +39,7 @@ main{
     text-decoration: line-through;
     background-color: aqua !important;
 }
+p{
+  background-color: aqua;
+  color: black;
+}
